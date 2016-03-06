@@ -1,0 +1,9 @@
+Fichier txt de qualité pour tester le bon fonctionnement
+et l'utilisation de git et github
+git status
+git add
+git commit -m
+git log
+git remote
+git clone
+git push
